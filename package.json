@@ -1,0 +1,41 @@
+{
+  "name": "@unsudo/line-wrapper",
+  "version": "1.0.0",
+  "description": "Create an array of wrapped text lines of a certain width",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsudo/line-wrapper.git"
+  },
+  "keywords": [
+    "wrap",
+    "wrapper",
+    "fit",
+    "resize",
+    "line-wrap",
+    "line-wrapper",
+    "fit-line",
+    "resize-line",
+    "line-width",
+    "text-wrap",
+    "text-wrapper",
+    "fit-text",
+    "resize-text",
+    "text-width"
+  ],
+  "author": {
+    "name": "Archontis-Dimitrios Maletsas",
+    "email": "admaletsas@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unsudo/line-wrapper/issues"
+  },
+  "homepage": "https://github.com/unsudo/line-wrapper#readme",
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
